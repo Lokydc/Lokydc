@@ -17,6 +17,6 @@
 
 <h2>ﾟ･✧🍡・Informações de merda que ninguém liga: </h2>
  ​<p align="center" > 
- ​    <img src="https://github-readme-stats.vercel.app/api?username=Lokydc&show_icons=true&theme=tokyonight" /> 
- ​    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokydc&layout=compact&theme=tokyonight" /> 
+ ​    <img src="https://github-readme-stats.vercel.app/api?username=Loky07&show_icons=true&theme=tokyonight" /> 
+ ​    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loky07&layout=compact&theme=tokyonight" /> 
 </p>
